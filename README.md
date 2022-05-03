@@ -1,7 +1,7 @@
-# Finding Silent Fixes: Patching Commit Identifier with Aspect-Level Vulnerability Information Explainability
+# Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation
 
-This repository shows the labels and codes of paper **Finding Silent Fixes: Patching Commit Identifier with Aspect-Level Vulnerability Information Explainability**.
-We only show part of training data here, full data will be published after the paper is accepted.
+This repository shows the labels and codes of paper **Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation**.
+We only show part of training data here as the full data is too big, please contact [u5871153@anu.edu.au](mailto:u5871153@anu.edu.au) to get the full data.
 
 ## Contents
 
